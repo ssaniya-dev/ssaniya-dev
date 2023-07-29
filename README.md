@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello there, I'm [Your Name] 👋 
 
-<!--
-**ssaniya-dev/ssaniya-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="360"/>
 
-Here are some ideas to get you started:
+## 📚 About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently a student at Georgia Tech, diving into the amazing world of computer science! 
+
+- 💡 I love exploring new technologies and developing software solutions.
+- 🌱 I’m currently learning everything related to Artificial Intelligence and Cybersecurity.
+- 👯 I’m looking to collaborate on innovative projects.
+- 📫 How to reach me: [your.email@gatech.edu](mailto:your.email@gatech.edu)
+
+## 🚀 Quick Facts
+
+- 📝 I regulary write articles on [my personal blog](https://example.com/).
+- 📄 Know about my experiences [from my resume](https://example.com/my_resume.pdf)
+
+## 🔭 Languages and Tools
+
+```text
+Python, Java, C++, HTML/CSS, JavaScript, SQL, Git

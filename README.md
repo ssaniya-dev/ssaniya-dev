@@ -13,10 +13,11 @@ I'm currently a student at Georgia Tech, diving into the amazing world of comput
 
 ## 🚀 Quick Facts
 
-- 📝 I regulary write articles on [my personal blog](https://example.com/).
-- 📄 Know about my experiences [from my resume](https://example.com/my_resume.pdf)
+- 📄 Know about my experiences [from my resume](https://drive.google.com/file/d/1-obUDyotvCOmLJuTenWTJpyWsBkvq85T/view?usp=sharing)
 
-## 🔭 Languages and Tools
+## 🔭 Skills
 
 ```text
-Python, Java, C++, HTML/CSS, JavaScript, SQL, Git
+Languages: Java, Python, HTML/CSS, SQL, JavaScript, C, C++, MATLAB
+Technologies: Git, Azure, React, AWS, Node.js, Docker, Django, Jenkins, Postman, MongoDB, TensorFlow
+Concepts: Machine Learning, Cloud Computing, Cybersecurity, System Design, Concurrency, Data Science

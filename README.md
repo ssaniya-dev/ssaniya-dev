@@ -7,7 +7,7 @@
 I'm currently a student at Georgia Tech, diving into the amazing world of computer science! 
 
 - 💡 I love exploring new technologies and developing software solutions.
-- 🌱 I’m currently learning everything related to Artificial Intelligence and Cybersecurity.
+- 🌱 I’m currently learning everything related to Artificial Intelligence, FinTech, and more!
 - 👯 I’m looking to collaborate on innovative projects.
 - 📫 How to reach me: [ssavla30@gatech.edu](mailto:ssavla30@gatech.edu)
 

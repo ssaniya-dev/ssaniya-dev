@@ -11,9 +11,11 @@ I'm currently a student at Georgia Tech, diving into the amazing world of comput
 - 👯 I’m looking to collaborate on innovative projects.
 - 📫 How to reach me: [ssavla30@gatech.edu](mailto:ssavla30@gatech.edu)
 
-## 🚀 Quick Facts
+## 🚀 Quick Links
 
 - 📄 Know about my experiences [from my resume](https://drive.google.com/file/d/1-obUDyotvCOmLJuTenWTJpyWsBkvq85T/view?usp=sharing)
+- 👩🏽‍💻 Check out [my website!](https://saniya.dev/)
+- 💼 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/saniya-savla/) too :) 
 
 ## 🔭 Skills
 

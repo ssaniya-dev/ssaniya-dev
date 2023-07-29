@@ -1,6 +1,6 @@
 # Hello there, I'm [Your Name] 👋 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230"/>
 
 ## 📚 About Me 
 

@@ -1,6 +1,6 @@
 # Hello there, I'm Saniya! 👋 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230"/>
+<img align="right" alt="GIF" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664" width="230"/>
 
 ## 📚 About Me 
 

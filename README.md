@@ -9,7 +9,7 @@ I'm currently a student at Georgia Tech, diving into the amazing world of comput
 - 💡 I love exploring new technologies and developing software solutions.
 - 🌱 I’m currently learning everything related to Artificial Intelligence, FinTech, and more!
 - 👯 I’m looking to collaborate on innovative projects.
-- 📫 How to reach me: [ssavla30@gatech.edu](mailto:saniya0savla@gmail.com)
+- 📫 How to reach me: [saniya0savla@gmail.com](mailto:saniya0savla@gmail.com)
 
 ## 🚀 Quick Links
 

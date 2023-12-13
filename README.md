@@ -1,7 +1,5 @@
 # Hello there, I'm Saniya! 👋 
 
-<iframe src="https://giphy.com/embed/6FxJBpNTBgWdJCXKD4" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LINEFRIENDS-frog-leonard-linefriends-6FxJBpNTBgWdJCXKD4">via GIPHY</a></p>
-
 ## 📚 About Me 
 
 I'm currently a student at Georgia Tech, diving into the amazing world of computer science! 

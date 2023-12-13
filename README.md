@@ -1,6 +1,6 @@
 # Hello there, I'm Saniya! 👋 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/>
+<iframe src="https://giphy.com/embed/6FxJBpNTBgWdJCXKD4" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LINEFRIENDS-frog-leonard-linefriends-6FxJBpNTBgWdJCXKD4">via GIPHY</a></p>
 
 ## 📚 About Me 
 
